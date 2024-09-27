@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Playing Meta Civil Court", "Playing Meta Civil Court"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'idle', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
